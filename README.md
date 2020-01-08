@@ -31,8 +31,7 @@
 <li>Keras Tutorial - Happy House</li>
 <li>Residual Networks</li>
  <li>Art_Generation_with_Neural_Style_Transfer</li>
-  <li>Facial Recognition</li>
+ <li>Facial Recognition</li>
 </ul>
-</li>
-<li>
+
 
